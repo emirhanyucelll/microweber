@@ -28,19 +28,19 @@
 
 # HTTP Request 1
 
-# GET /microweber-master/ HTTP/1.1
-# Host: d5emqa7plkfnqn0e6ung4ojox6jjar8et.oast.online
-# User-Agent: Mozilla/5.0
-# Accept: */*
-# Connection: close
+GET /microweber-master/ HTTP/1.1
+Host: d5emqa7plkfnqn0e6ung4ojox6jjar8et.oast.online
+User-Agent: Mozilla/5.0
+Accept: */*
+Connection: close
 
 # HTTP Request 2
 
-# GET /microweber-master/api/user/forgot-password HTTP/1.1
-# Host: evil.com
-# User-Agent: Mozilla/5.0
-# Accept: */*
-# Connection: close
+GET /microweber-master/api/user/forgot-password HTTP/1.1
+Host: evil.com
+User-Agent: Mozilla/5.0
+Accept: */*
+Connection: close
 
 # 4. Observed Behavior
 
